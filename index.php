@@ -152,9 +152,24 @@
                     <div class="card">
                         <div class="card-body">
                             <div class="stat-widget-one">
-                                <div class="stat-icon dib"><i class="ti-user text-primary border-primary"></i></div>
+                                <div class="stat-icon dib"><i class="ti-bar-chart text-primary border-primary"></i></div>
                                 <div class="stat-content dib">
                                     <div class="stat-text">Charts<br>Analysis</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <a href="learningchart.php">            
+                <div class="col-lg-3 col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="stat-widget-one">
+                                <div class="stat-icon dib"><i class="ti-bar-chart text-primary border-primary"></i></div>
+                                <div class="stat-content dib">
+                                    <div class="stat-text">Performance<br>Chart</div>
                                 </div>
                             </div>
                         </div>
